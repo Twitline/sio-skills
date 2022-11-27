@@ -1,0 +1,4 @@
+[C 2.1.10] Conception de documentation
+
+Stage :
+	Realisation d'une documentation pour l'intranet de Degrenne

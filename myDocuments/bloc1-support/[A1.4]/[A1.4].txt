@@ -1,0 +1,4 @@
+[A 1.4] Travail en mode projet 
+
+	Projet E-Music :
+		Nous avons decoupé les taches et les avons assignés equitablement. Un tableau de repartition des taches a été fait sur Zenhub et sur tableur

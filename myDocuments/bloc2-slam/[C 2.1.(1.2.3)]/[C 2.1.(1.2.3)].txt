@@ -1,0 +1,10 @@
+[C 2.1.(1.2.3)] Analyse, conception
+
+Participation à la conception de l’architecture d’une solution applicative
+	Stage :
+		Conception d'un Intranet pour Degrenne
+		Participation à des reunions pour la conception de l'architecture de l'intranet (Normes de nomage, arborecence, droits...)
+
+Modélisation d’une solution applicative
+	Stage :
+		Realisation de l'intranet et documentation	
